@@ -1,0 +1,6 @@
+[submodule "class-notes/py4fi"]
+	path = class-notes/py4fi
+	url = git@github.com:yhilpisch/py4fi.git
+[submodule "class-notes/QuantEcon.py"]
+	path = class-notes/QuantEcon.py
+	url = git@github.com:QuantEcon/QuantEcon.py.git
